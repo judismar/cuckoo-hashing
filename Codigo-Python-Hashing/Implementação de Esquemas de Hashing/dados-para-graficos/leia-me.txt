@@ -1,0 +1,5 @@
+-Formato dos arquivos de texto-
+
+Primeira coluna: número de chaves
+Segunda coluna: tempo médio de uma inserção
+Terceira coluna: tempo médio de uma busca 
